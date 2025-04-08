@@ -1,0 +1,11 @@
+C:\Users\auzas\Desktop\Parcial1Lib\Parcial1Lib1\bin\Debug\net9.0\Parcial1Lib1.deps.json
+C:\Users\auzas\Desktop\Parcial1Lib\Parcial1Lib1\bin\Debug\net9.0\Parcial1Lib1.dll
+C:\Users\auzas\Desktop\Parcial1Lib\Parcial1Lib1\bin\Debug\net9.0\Parcial1Lib1.pdb
+C:\Users\auzas\Desktop\Parcial1Lib\Parcial1Lib1\obj\Debug\net9.0\Parcial1Lib1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auzas\Desktop\Parcial1Lib\Parcial1Lib1\obj\Debug\net9.0\Parcial1Lib1.AssemblyInfoInputs.cache
+C:\Users\auzas\Desktop\Parcial1Lib\Parcial1Lib1\obj\Debug\net9.0\Parcial1Lib1.AssemblyInfo.cs
+C:\Users\auzas\Desktop\Parcial1Lib\Parcial1Lib1\obj\Debug\net9.0\Parcial1Lib1.csproj.CoreCompileInputs.cache
+C:\Users\auzas\Desktop\Parcial1Lib\Parcial1Lib1\obj\Debug\net9.0\Parcial1Lib1.dll
+C:\Users\auzas\Desktop\Parcial1Lib\Parcial1Lib1\obj\Debug\net9.0\refint\Parcial1Lib1.dll
+C:\Users\auzas\Desktop\Parcial1Lib\Parcial1Lib1\obj\Debug\net9.0\Parcial1Lib1.pdb
+C:\Users\auzas\Desktop\Parcial1Lib\Parcial1Lib1\obj\Debug\net9.0\ref\Parcial1Lib1.dll
